@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Online Voting System</string>
+    <string name="Position_spinner_prompt">Select your Position</string>
+    <string name="Create">Create</string>
+</resources>
